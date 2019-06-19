@@ -1,0 +1,45 @@
+filledRectangle, 159, 118, 14, 8, -13421569
+filledRectangle, 746, 434, 8, 12, -13421569
+filledRectangle, 440, 230, 11, 11, -13421569
+filledRectangle, 266, 260, 9, 12, -13421569
+filledRectangle, 196, 541, 11, 11, -13421569
+filledRectangle, 607, 617, 10, 8, -13421569
+filledRectangle, 783, 106, 15, 12, -13421569
+filledRectangle, 553, 359, 12, 13, -13421569
+filledRectangle, 480, 99, 11, 8, -13421569
+filledRectangle, 382, 394, 13, 12, -13421569
+filledRectangle, 204, 322, 14, 13, -13421569
+filledRectangle, 448, 533, 17, 12, -13421569
+filledRectangle, 774, 214, 21, 12, -13421569
+filledRectangle, 835, 469, 5, 11, -13421569
+filledRectangle, 781, 607, 4, 10, -13421569
+filledRectangle, 616, 150, 8, 14, -13421569
+filledPolygon,-52429,368,157,364,165,375,166,371,157
+filledPolygon,-52429,542,168,542,183,553,180,544,171
+filledPolygon,-52429,255,416,265,416,256,407
+filledPolygon,-52429,183,481,193,484,192,473
+filledPolygon,-52429,819,352,828,361,818,350
+filledPolygon,-52429,845,143,853,148,844,142
+filledPolygon,-52429,600,261,594,265
+filledPolygon,-52429,500,263,498,272,512,271,501,262
+filledPolygon,-52429,594,524,594,512
+filledPolygon,-52429,406,550,388,568,402,555
+filledPolygon,-52429,719,459,700,487,736,481,716,463
+filledPolygon,-52429,406,549,393,564,427,567,406,549
+filledPolygon,-52429,189,555,184,574,210,572,192,556
+filledPolygon,-52429,179,104,180,114,190,113,178,104
+filledCircle , 776, 119, 9, 12, -13369549
+filledCircle , 632, 143, 5, 6, -13369549
+filledCircle , 504, 94, 11, 14, -13369549
+filledCircle , 257, 273, 8, 4, -13369549
+filledCircle , 215, 347, 5, 6, -13369549
+filledCircle , 796, 261, 11, 14, -13369549
+filledCircle , 663, 450, 6, 11, -13369549
+filledCircle , 441, 310, 8, 10, -13369549
+filledCircle , 533, 468, 12, 8, -13369549
+filledCircle , 253, 613, 9, 14, -13369549
+filledCircle , 827, 526, 19, 18, -13369549
+filledCircle , 352, 206, 7, 10, -13369549
+filledCircle , 182, 178, 12, 9, -13369549
+filledCircle , 139, 348, 3, 13, -13369549
+filledCircle , 135, 422, 5, 10, -13369549

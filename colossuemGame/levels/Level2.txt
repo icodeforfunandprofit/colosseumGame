@@ -1,0 +1,11 @@
+filledRectangle, 723, 161, 12, 17, -16763905
+filledRectangle, 386, 305, 11, 7, -16763905
+filledRectangle, 219, 153, 11, 19, -16763905
+filledRectangle, 265, 560, 10, 10, -16763905
+filledCircle , 713, 424, 12, 11, -16724941
+filledCircle , 536, 169, 10, 6, -16724941
+filledCircle , 261, 405, 13, 12, -16724941
+filledCircle , 585, 573, 11, 12, -16724941
+filledPolygon,-65536,718,267,729,259,739,272,711,273
+filledPolygon,-65536,438,452,450,442,457,453,436,454
+filledPolygon,-65536,503,167,508,160,513,168,503,169
